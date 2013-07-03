@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DDBCFD0C-4FEB-443D-B86B-79F3DF08D055</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BarCodeScanner</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>61CE28FC-353D-4AA5-B7D6-5959777F40A2</key>
+		<string>https://github.com/Bartjezzz/barcodescanner.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BarCodeScanner.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>61CE28FC-353D-4AA5-B7D6-5959777F40A2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Bartjezzz/barcodescanner.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>61CE28FC-353D-4AA5-B7D6-5959777F40A2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>61CE28FC-353D-4AA5-B7D6-5959777F40A2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BarcodeScanner</string>
+		</dict>
+	</array>
+</dict>
+</plist>
