@@ -10,3 +10,7 @@ http://sourceforge.net/projects/zbar/
 
 Using TS Mini Web Browser
 https://github.com/tonisalae/TSMiniWebBrowser
+
+Version 0.1
+- Includes crosshair image (crosshair.png) as guide for scanner
+- Using example URL for display content (please update method openWebBrowser with propar URL)
